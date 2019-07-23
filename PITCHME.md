@@ -15,20 +15,17 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 
 ---
 
-
 ### こんな
 ![pokemongo](assets/img/pokemongo.png)
 
 
 ---
 
-
 ### こんな
 ![arunitychan](assets/img/arunitychan.png)
 
 
 ---
-
 
 ### こんな
 ![arglass](assets/img/arglass.png)
