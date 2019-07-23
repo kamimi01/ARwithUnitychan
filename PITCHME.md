@@ -11,6 +11,8 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 
 ### まず最近のARといえば...
 
+![pokemongo](assets/img/pokemongo.png)
+
 
 ---
 
