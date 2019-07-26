@@ -100,3 +100,12 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 ![unitychan](assets/img/unitychan.png)
 
 ---
+
+
+### 事前準備
+- Unityのアカウント作成とインストール
+- Vuforiaのアカウント作成とインストール
+- （iOSでビルドしたい人は）AppleIDの作成とXcodeのインストール
+
+
+---
