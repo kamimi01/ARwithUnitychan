@@ -179,7 +179,7 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 
 ### Unityちゃんが現れたでしょうか？
 #### 実行画面をタップするとジャンプします
-![unitychan](assets/img/unitychan.png)
+![markerunity](assets/img/markerunity.png)
 
 ---
 
