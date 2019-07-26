@@ -1,2 +1,8 @@
+#テーマ
+theme: moon
+
+#アニメーション
+transition: slide
+
 #スライドのページ数表示の設定
 slide-number: true
