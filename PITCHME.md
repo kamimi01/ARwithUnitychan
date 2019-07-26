@@ -110,7 +110,10 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 
 ---
 
-### まずUnityをインストール
+### まずUnityIDを作成する
+[ここから]（https://unity.com/ja）
+
+### 次にUnityをインストールする
 [ここから](https://unity3d.com/jp/get-unity/download)
 
 ---
