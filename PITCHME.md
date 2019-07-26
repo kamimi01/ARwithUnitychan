@@ -117,3 +117,42 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 [ここから](https://unity3d.com/jp/get-unity/download)
 
 ---
+
+
+### Vuforiaでライセンスを作成する
+[ここから]()
+
+
+---
+
+
+### ターゲットを追加する
+1. Add Databese
+2. 適当なDatabase Nameをつけて「Device」を選択し、Create
+
+---
+
+
+### ターゲットを追加する
+1. Add Target
+2.Fileを[ここから]()ダウンロードし、Vuforiaにアップロード
+3. Widthxxに設定
+4.適当なNameをつける
+5. Add
+
+---
+
+### UnityのパッケージをBOXからダウンロードする
+[ここから](#)
+
+
+---
+
+
+### Unityパッケージをインポートする
+
+
+---
+
+
+### 
