@@ -2,7 +2,7 @@
 theme: beige
 
 #アニメーション
-transition: slide
+transition: fade
 
 #スライドのページ数表示の設定
 slide-number: true
