@@ -104,7 +104,7 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 
 ### 事前準備
 1. Unityのアカウント作成とインストール
-2. Vuforiaのアカウント作成とインストール
+2. Vuforiaのアカウント作成
 3. （iOSでビルドしたい人は）AppleIDの作成とXcodeのインストール
 
 
@@ -116,19 +116,26 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 ### 次にUnityをインストールする
 [ここから](https://unity3d.com/jp/get-unity/download)
 
+### Vuforiaのアカウントを作成する
+[ここから](https://developer.vuforia.com/)
+
 ---
 
 
 ### Vuforiaでライセンスを作成する
 [ここから]()
+1. Get Development Key
+2. 適当な名前をつけてCreate
+3. 作成したkeyを押して、lisence keyをコピー
 
 
 ---
 
 
-### ターゲットを追加する
+### データベースの追加
 1. Add Databese
 2. 適当なDatabase Nameをつけて「Device」を選択し、Create
+3. 作成したDatabeseをタップして、Add Target
 
 ---
 
@@ -136,30 +143,16 @@ ARってチャレンジするのは、ハードルが高く感じませんか？
 ### ターゲットを追加する
 1. Add Target
 2. Fileを[ここから]()ダウンロードし、Vuforiaにアップロード
-3. Widthxxに設定
+3. Width30に設定
 4. 適当なNameをつける
 5. Add
-
----
-
-### UnityのパッケージをBOXからダウンロードする
-[ここから](#)
+6. 作成したDBをダウンロード
 
 
 ---
 
 
-### Unityパッケージをインポートする
-1. 
-2. 
-3. 
-4. 
-
-
----
-
-
-### Vuforiaの情報をUnityに設定する
+### Vuforiaのライセンス情報をUnityに設定する
 
 
 ---
