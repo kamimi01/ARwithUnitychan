@@ -1,0 +1,8 @@
+#テーマ
+theme: beige
+
+#アニメーション
+transition: fade
+
+#スライドのページ数表示の設定
+slide-number: true
